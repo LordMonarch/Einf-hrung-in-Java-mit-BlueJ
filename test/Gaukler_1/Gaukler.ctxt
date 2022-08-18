@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ deleteObservers()
+comment0.text=\r\n\ L\u00F6scht\ alle\ Zuschauer\r\n
+comment1.params=
+comment1.target=void\ notifyObserver()
+comment1.text=\r\n\ Informiert\ alle\ Zuschauer,\ dass\ eine\ Aktion\ beendet\ wurde\r\n
+numComments=2

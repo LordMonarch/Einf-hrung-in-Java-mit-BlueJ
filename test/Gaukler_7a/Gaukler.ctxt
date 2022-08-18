@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ macheWerbung()
+comment0.text=\r\n\ Macht\ Werbung\ f\u00FCr\ die\ Veranstaltung\r\n
+comment1.params=
+comment1.target=void\ begruessen()
+comment1.text=\r\n\ Begr\u00FC\u00DFt\ die\ Zuschauer\r\n
+comment2.params=
+comment2.target=void\ zersaegeJungfrau()
+comment2.text=\r\n\ F\u00FChrt\ eine\ Aktion\ aus\ -\ eine\ Freiwillige\ zers\u00E4gen\ -\ und\ informiert\ die\ Zuschauer\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMotto()
+comment3.text=\r\n\ Gibt\ das\ Motto\ der\ Veranstaltung\ zur\u00FCck\ \r\n\ @return\ Motto\ der\ Veranstaltung\r\n
+comment4.params=
+comment4.target=void\ jonglieren()
+comment4.text=\r\n\ F\u00FChrt\ eine\ Aktion\ aus\ -\ jonglieren\ -\ und\ informiert\ die\ Zuschauer\r\n
+numComments=5

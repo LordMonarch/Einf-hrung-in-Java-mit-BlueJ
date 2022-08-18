@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=aktion
+comment0.target=void\ update(java.lang.Object)
+comment0.text=\r\n\ Methode\ wird\ aufgerufen,\ wenn\ der\ Gaukler\ eine\ Aktion\ beendet\ hat.\ \r\n\ @param\ aktion\ Die\ gerade\ beendetet\ Aktion\r\n
+numComments=1
