@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=betrag
+comment0.target=void\ einzahlen(int)
+comment0.text=\r\n\ Zahlt\ einen\ Geldbetrag\ auf\ das\ Konto\ ein\r\n\ @param\ betrag\ Der\ Betrag,\ um\ den\ der\ Kontostand\ erh\u00F6ht\ werden\ soll\r\n
+comment1.params=fremdesKonto\ betrag
+comment1.target=void\ ueberweisen(Konto,\ int)
+comment1.text=\r\n\ \u00DCberweist\ den\ angegebenen\ Betrag\ auf\ ein\ anderes\ Konto\r\n\ @param\ fremdesKonto\ Das\ Konto,\ auf\ das\ das\ Geld\ \u00FCberweisen\ wird\r\n\ @param\ betrag\ Der\ zu\ \u00FCberweisende\ Betrag\r\n
+comment2.params=
+comment2.target=int\ getKontostand()
+comment2.text=\r\n\ Gibt\ den\ Kontostand\ zur\u00FCck\r\n\ @return\ ganzzahliger\ Kontostand\r\n
+comment3.params=betrag
+comment3.target=void\ setKontostand(int)
+comment3.text=\r\n\ Setzt\ den\ Kontostand\r\n\ @param\ betrag\ Der\ Betrag,\ den\ das\ Konto\ k\u00FCnftig\ haben\ soll\r\n
+numComments=4

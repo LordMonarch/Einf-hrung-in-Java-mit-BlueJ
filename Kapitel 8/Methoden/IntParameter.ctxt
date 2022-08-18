@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=zahlen
+comment0.target=int\ addiere(int[])
+comment1.params=zahlen
+comment1.target=int\ addiereKurz(int[])
+numComments=2

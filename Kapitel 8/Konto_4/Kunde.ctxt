@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=name\ weiblich
+comment0.target=Kunde(java.lang.String,\ boolean)
+comment1.params=weiblich\ name
+comment1.target=Kunde(boolean,\ java.lang.String)
+comment2.params=betrag
+comment2.target=void\ erhalteGeld(int)
+comment2.text=\r\n\ Geld\ erhalten\ und\ auf\ das\ Konto\ einzahlen\r\n\ @param\ betrag\ Der\ Betrag,\ der\ empfangen\ wird\r\n
+comment3.params=empfaenger\ betrag
+comment3.target=void\ ueberweisen(Kunde,\ int)
+comment3.text=\r\n\ \u00DCberweist\ den\ angegebenen\ Betrag\ auf\ ein\ anderes\ Konto\r\n\ @param\ empfaenger\ Der\ Kunde,\ der\ das\ Geld\ erhalten\ soll\r\n\ @param\ betrag\ Der\ zu\ \u00FCberweisende\ Betrag\r\n
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ Setzt\ den\ Namen\ des\ Kunden\r\n\ @param\ name\ Der\ Name\ des\ Kunden\r\n
+comment5.params=
+comment5.target=void\ vorstellen()
+comment5.text=\r\n\ Der\ Kunde\ stellt\ sich\ vor\ -\ auf\ der\ Konsole\ wird\ ein\ entsprechender\ Text\ ausgegeben\r\n
+numComments=6

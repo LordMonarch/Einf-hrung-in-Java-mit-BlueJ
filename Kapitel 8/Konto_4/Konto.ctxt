@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Konto()
+comment0.text=\r\n\ Gibt\ eine\ Erfolgsmeldung\ auf\ der\ Konsole\ aus\ \r\n
+comment1.params=betrag
+comment1.target=Konto(int)
+comment1.text=\r\n\ Initialisiert\ den\ Kontostand\ mit\ einem\ parametrisierten\ Wert\ und\ gibt\ eine\ Erfolgsmeldung\ auf\ der\ Konsole\ aus\ \r\n
+comment2.params=betrag
+comment2.target=void\ einzahlen(int)
+comment2.text=\r\n\ Zahlt\ einen\ Geldbetrag\ auf\ das\ Konto\ ein\r\n\ @param\ betrag\ Der\ Betrag,\ um\ den\ der\ Kontostand\ erh\u00F6ht\ werden\ soll\r\n
+comment3.params=betrag
+comment3.target=boolean\ abheben(int)
+comment3.text=\r\n\ Hebt\ Geld\ vom\ Konto\ ab\r\n\ @param\ betrag\ Der\ Betrag,\ der\ abgehoben\ werden\ soll\r\n\ @return\ true,\ wenn\ der\ Vorgang\ erfolgreich\ war\r\n
+comment4.params=
+comment4.target=int\ getKontostand()
+comment4.text=\r\n\ Gibt\ den\ Kontostand\ zur\u00FCck\r\n\ @return\ ganzzahliger\ Kontostand\r\n
+comment5.params=betrag
+comment5.target=void\ setKontostand(int)
+comment5.text=\r\n\ Setzt\ den\ Kontostand\ auf\ den\ Betrag,\ der\ als\ Parameter\ mitgegeben\ wird\r\n\ @param\ betrag\ Der\ gew\u00FCnschte\ Kontostand\ \ \r\n
+numComments=6
