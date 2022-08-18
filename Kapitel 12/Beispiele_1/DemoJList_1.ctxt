@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ valueChanged(javax.swing.event.ListSelectionEvent)
+comment1.params=
+comment1.target=DemoJList_1()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

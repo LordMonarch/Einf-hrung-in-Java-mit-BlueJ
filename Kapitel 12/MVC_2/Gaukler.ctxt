@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ jongliere()
+comment1.params=
+comment1.target=java.lang.String\ getAktion()
+comment2.params=
+comment2.target=void\ notifyZuschauer()
+comment3.params=zuschauer
+comment3.target=void\ addZuschauer(Zuschauer)
+numComments=4
