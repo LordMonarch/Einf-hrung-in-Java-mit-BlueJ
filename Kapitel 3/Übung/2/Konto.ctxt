@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getKontostand()
+comment0.text=\r\n\ Gibt\ den\ Kontostand\ zur\u00FCck\r\n\ @return\ ganzzahliger\ Kontostand\r\n
+comment1.params=betrag
+comment1.target=void\ setKontostand(int)
+comment1.text=\r\n\ Setzt\ den\ Kontostand\r\n\ @param\ betrag\ Der\ Betrag,\ den\ das\ Konto\ k\u00FCnftig\ haben\ soll\r\n
+comment2.params=text
+comment2.target=void\ drucke(java.lang.String)
+comment2.text=\r\n\ Druckt\ den\ Text,\ der\ als\ Parameter\ mitgegeben\ wird,\ auf\ der\ Konsole\ aus\r\n\ @param\ text\ der\ Text,\ der\ ausgedruckt\ werden\ soll.\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getKontoinhaber()
+comment3.text=\r\n\ Gibt\ den\ Kontoinhaber\ zur\u00FCck\ und\ druckt\ den\ Namen\ auf\ der\ Konsole\r\n\ @return\ Name\ des\ Kontoinhabers\r\n
+comment4.params=name
+comment4.target=void\ setKontoinhaber(java.lang.String)
+comment4.text=\r\n\ Setzt\ den\ Namen\ des\ Kontoinhabers\r\n\ @param\ name\ Name\ des\ Kontoinhabers\r\n
+numComments=5

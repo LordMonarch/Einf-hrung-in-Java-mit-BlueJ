@@ -1,0 +1,58 @@
+
+/**
+ * 
+ * Darstellung von Menschen mit Vornamen und
+ * Geburtsnamen
+ * 
+ * Diese können gesetzt und abgefragt werden
+ * 
+ * @author (Rainer Hofmann) 
+ * @version (2015)
+ */
+public class Mensch
+{
+    private String vorname;
+    private String geburtsname;
+    
+    /**
+     * Setzen des Vornamens
+     */
+    public void setvorname(String name)
+    {
+        vorname = name;
+    }
+    
+    /**
+     * Setzen des Geburtsnamens
+     */
+    public void setgeburtsname(String name)
+    {
+        geburtsname = name;
+    }
+    
+    /**
+     * Rückgabe des Vornamens
+     */
+    public String getvorname()
+    {
+        drucke(vorname);
+        return vorname;
+    }
+    
+    /**
+     * Rückgabe des Geturtsnamens
+     */
+    public String getgeburtsname()
+    {
+        drucke(geburtsname);
+        return geburtsname;
+    }
+    
+    /**
+     * Verkürzung der println-funktion
+     */
+    private void drucke(String text)
+    {
+        System.out.println(text);
+    }
+}
