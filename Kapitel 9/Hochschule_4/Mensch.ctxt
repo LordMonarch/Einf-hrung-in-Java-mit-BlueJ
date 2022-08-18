@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Mensch(java.lang.String)
+comment0.text=\r\n\ Der\ Konstruktor\ nimmt\ den\ Namen\ des\ Menschen\ entgegen\ und\ \r\n\ initialisiert\ das\ Feld\ name\ damit\r\n\ @param\ name\ Name\ des\ Menschen\r\n
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment1.text=\r\n\ Setzt\ den\ Namen\ des\ Menschen\r\n\ @param\ String\ Der\ Name\ des\ Menschen\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gibt\ den\ Namen\ des\ Menschen\ zur\u00FCck\r\n\ @return\ Der\ Name\ des\ Menschen\r\n
+comment3.params=
+comment3.target=java.lang.String\ vorstellen()
+comment3.text=\r\n\ Gibt\ einen\ kurzen\ Vorstellungstext\ des\ Menschen\ aus\r\n\ @return\ Ein\ kurzer\ Vorstellungstext\r\n
+numComments=4

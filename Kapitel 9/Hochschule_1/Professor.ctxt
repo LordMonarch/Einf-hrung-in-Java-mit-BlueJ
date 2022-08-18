@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fachbereich
+comment0.target=void\ setFachbereich(java.lang.String)
+comment0.text=\r\n\ Setzt\ den\ Fachbereich\ \r\n\ @param\ String\ Der\ Fachbereich\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getFachbereich()
+comment1.text=\r\n\ Gibt\ den\ Fachbereich\ des\ Professors\ zur\u00FCck\r\n\ @return\ Fachbereich\ des\ Professors\r\n
+numComments=2

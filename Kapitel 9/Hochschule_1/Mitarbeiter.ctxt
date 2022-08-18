@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=personalnummer
+comment0.target=void\ setPersonalnummer(int)
+comment1.params=
+comment1.target=int\ getPersonalnummer()
+numComments=2

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Angestellter(java.lang.String)
+comment0.text=\r\n\ Konstruktor\ nimmt\ den\ Namen\ des\ Angestellten\ entgegen\ und\ reicht\ ihn\ an\ die\ Superklasse\ weiter\r\n\ @param\ name\ Der\ Name\ des\ Angestellten\ \r\n
+comment1.params=name\ personalnummer
+comment1.target=Angestellter(java.lang.String,\ int)
+comment1.text=\r\n\ Konstruktor\ nimmt\ den\ Namen\ und\ die\ Personalnummer\ des\ Angestellten\ entgegen\ und\ reicht\ \r\n\ beide\ an\ die\ Superklasse\ weiter\r\n\ @param\ name\ Der\ Name\ des\ Angestellten\r\n\ @param\ personalnummer\ Die\ Personalnummer\ des\ Angestellten\r\n
+comment2.params=personalrat
+comment2.target=void\ setPersonalrat(boolean)
+comment2.text=\r\n\ Legt\ fest,\ ob\ der\ Angestellte\ dem\ Personalrat\ angeh\u00F6rt\r\n\ @param\ personalrat\ Wahrheitswert,\ der\ die\ Zugeh\u00F6rigkeit\ bestimmt\r\n
+comment3.params=
+comment3.target=boolean\ isPersonalrat()
+comment3.text=\r\n\ Gibt\ zur\u00FCck,\ ob\ der\ Angestellte\ Mitglied\ im\ Personalrat\ ist\r\n\ @return\ true,\ wenn\ Personalrat,\ sonst\ false\r\n
+comment4.params=
+comment4.target=java.lang.String\ vorstellen()
+comment4.text=\r\n\ Gibt\ einen\ String\ zur\u00FCck,\ der\ einen\ Vorstellungstext\ enth\u00E4lt\r\n\ @return\ Zeichenkette\ mit\ einer\ kurzen\ Vorstellung\r\n
+numComments=5

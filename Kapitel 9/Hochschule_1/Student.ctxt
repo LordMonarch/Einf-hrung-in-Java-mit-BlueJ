@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=matrikel
+comment0.target=void\ setMatrikel(java.lang.String)
+comment0.text=\r\n\ Setzt\ die\ Immatrikulationsnummer\ \r\n\ @param\ String\ Die\ Matrikelnummer\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMatrikel()
+comment1.text=\r\n\ Gibt\ die\ Immatrikulationsnummer\ zur\u00FCck\r\n\ @return\ Matrikelnummer\ des\ Studenten\r\n
+numComments=2

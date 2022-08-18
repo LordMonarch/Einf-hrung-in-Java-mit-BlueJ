@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ personalnummer
+comment0.target=Mitarbeiter(java.lang.String,\ int)
+comment0.text=\r\n\ Der\ Konstruktor\ nimmt\ den\ Namen\ und\ die\ Personalnummer\ entgegen.\ Den\ Namen\ \r\n\ reicht\ er\ an\ die\ Superklasse\ weiter,\ die\ Personalnummer\ wird\ im\ Feld\ \r\n\ personalnummer\ gespeichert.\ \r\n\ @param\ name\ Der\ Name\ des\ Mitarbeiters\r\n\ @param\ personalnummer\ Die\ Personalnummer\ des\ Mitarbeiters\r\n
+comment1.params=name
+comment1.target=Mitarbeiter(java.lang.String)
+comment1.text=\r\n\ Der\ Konstruktor\ nimmt\ den\ Namen\ entgegen.\ Die\ Personalnummer\ wird\ als\ Zufallszahl\ generiert.\ \r\n\ Name\ und\ Personalnummer\ werden\ an\ den\ Konstruktor\ Mitarbeiter(String\ name,\ int\ personalnummer)\r\n\ weitergereicht\r\n\ @param\ name\ Der\ Name\ des\ Mitarbeiters\r\n
+comment2.params=personalnummer
+comment2.target=void\ setPersonalnummer(int)
+comment2.text=\r\n\ L\u00E4sst\ den\ Benutzer\ eine\ Personalnummer\ eingeben\r\n\ @param\ int\ Die\ Personalnummer\r\n
+comment3.params=
+comment3.target=int\ getPersonalnummer()
+comment3.text=\r\n\ Gibt\ die\ Personalnummer\ zur\u00FCck\r\n\ @return\ Die\ Personalnummer\r\n
+numComments=4
