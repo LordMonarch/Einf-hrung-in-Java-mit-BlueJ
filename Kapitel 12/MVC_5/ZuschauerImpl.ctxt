@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ZuschauerImpl()
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\r\n\ wird\ vom\ Gaukler\ aufgerufen,\ wenn\ dieser\ ein\ Kunstst\u00FCck\ vorgef\u00FChrt\ hat.\ \r\n
+numComments=2

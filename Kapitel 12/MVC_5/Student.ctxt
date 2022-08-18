@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ jongliere()
+comment0.text=\r\n\ drei\ m\u00F6gliche\ Aktionen\r\n
+comment1.params=
+comment1.target=void\ zersaegeJungfrau()
+comment2.params=
+comment2.target=void\ zaubereKaninchen()
+comment3.params=vorname\ familienname
+comment3.target=Student(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Konstruktor\ der\ Student-Klasse\ -\ \u00FCbergibt\ Vor-\ und\ Familienname\ an\ die\ Superklasse\r\n
+comment4.params=
+comment4.target=void\ vorstellen()
+comment4.text=\r\n\ Mit\ dieser\ Methode\ kann\ ein\ Student\ sich\ vorstellen\r\n
+comment5.params=matrikel
+comment5.target=void\ setMatrikel(java.lang.String)
+comment5.text=\r\n\ Setzt\ die\ Immatrikulationsnummer\ \r\n\ @param\ String\ Die\ Matrikelnummer\r\n
+comment6.params=
+comment6.target=java.lang.String\ getMatrikel()
+comment6.text=\r\n\ Gibt\ die\ Immatrikulationsnummer\ zur\u00FCck\r\n\ @return\ Matrikelnummer\ des\ Studenten\r\n
+numComments=7

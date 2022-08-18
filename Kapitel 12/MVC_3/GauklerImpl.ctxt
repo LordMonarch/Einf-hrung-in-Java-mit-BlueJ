@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getAktion()
+comment0.text=\r\n\ gibt\ zur\u00FCck,\ was\ der\ Gaukler\ zuletzt\ getan\ hat\r\n
+comment1.params=
+comment1.target=void\ jongliere()
+comment1.text=\r\n\ zeigt\ eine\ Status\u00E4nderung\ an.\ \r\n
+comment2.params=
+comment2.target=void\ notifyZuschauer()
+comment2.text=\r\n\ informiert\ den\ Zuschauer\ \u00FCber\ eine\ Aktion\r\n
+numComments=3

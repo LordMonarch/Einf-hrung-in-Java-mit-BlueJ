@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Planetenverwaltung()
+comment1.params=
+comment1.target=void\ loeschePluto()
+comment2.params=source\ von\ bis
+comment2.target=void\ fireIntervalRemoved(java.lang.Object,\ int,\ int)
+comment3.params=source\ von\ bis
+comment3.target=void\ fireIntervalAdded(java.lang.Object,\ int,\ int)
+comment4.params=source\ von\ bis
+comment4.target=void\ fireContentsChanged(java.lang.Object,\ int,\ int)
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=listener
+comment6.target=void\ addListDataListener(javax.swing.event.ListDataListener)
+comment7.params=listener
+comment7.target=void\ removeListDataListener(javax.swing.event.ListDataListener)
+numComments=8

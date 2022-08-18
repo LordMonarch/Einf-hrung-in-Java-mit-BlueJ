@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Planetenverwaltung()
+comment1.params=
+comment1.target=void\ loeschePluto()
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=listener
+comment3.target=void\ addListDataListener(javax.swing.event.ListDataListener)
+comment4.params=listener
+comment4.target=void\ removeListDataListener(javax.swing.event.ListDataListener)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ZuschauerImpl()
+comment1.params=gaukler
+comment1.target=void\ setGaukler(GauklerModel)
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ wird\ vom\ Gaukler\ aufgerufen,\ wenn\ dieser\ ein\ Kunstst\u00FCck\ vorgef\u00FChrt\ hat.\ \r\n
+numComments=3
