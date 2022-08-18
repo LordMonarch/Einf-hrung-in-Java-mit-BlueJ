@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ altern()
+comment0.text=\r\n\ l\u00E4sst\ den\ Menschen\ um\ ein\ Jahr\ altern\r\n
+comment1.params=
+comment1.target=void\ hochzaehlen()
+comment1.text=\r\n\ Erh\u00F6ht\ den\ Wert\ des\ Z\u00E4hlers\ um\ 1\r\n
+comment2.params=anzahl
+comment2.target=void\ erhoeheKinderzahl(int)
+comment2.text=\r\n\ Erh\u00F6ht\ die\ Anzahl\ der\ Kinder\ um\ den\ eingegebenen\ Wert\r\n
+numComments=3

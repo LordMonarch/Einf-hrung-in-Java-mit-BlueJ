@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ hochzaehlen()
+comment0.text=\r\n\ Erh\u00F6ht\ den\ Wert\ des\ Z\u00E4hlers\ um\ 1\r\n
+comment1.params=
+comment1.target=void\ aendereSpecies()
+comment2.params=
+comment2.target=void\ altern()
+comment2.text=\r\n\ l\u00E4sst\ den\ Menschen\ um\ ein\ Jahr\ altern\r\n
+comment3.params=
+comment3.target=void\ addiereZwei()
+comment3.text=\r\n\ Erh\u00F6ht\ den\ Wert\ des\ Z\u00E4hlers\ um\ 2\r\n
+numComments=4
