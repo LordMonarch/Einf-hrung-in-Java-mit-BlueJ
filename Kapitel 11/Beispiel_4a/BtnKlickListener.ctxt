@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fenster
+comment0.target=BtnKlickListener(MyFrame)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2

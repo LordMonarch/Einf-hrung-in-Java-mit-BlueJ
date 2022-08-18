@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyFrame()
+comment1.params=color
+comment1.target=void\ aendernFarbe(java.awt.Color)
+numComments=2
