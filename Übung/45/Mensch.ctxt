@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=void\ setvorname(java.lang.String)
+comment0.text=\r\n\ Setzen\ des\ Vornamens\r\n
+comment1.params=name
+comment1.target=void\ setgeburtsname(java.lang.String)
+comment1.text=\r\n\ Setzen\ des\ Geburtsnamens\r\n
+comment2.params=
+comment2.target=java.lang.String\ getvorname()
+comment2.text=\r\n\ R\u00FCckgabe\ des\ Vornamens\r\n
+comment3.params=
+comment3.target=java.lang.String\ getgeburtsname()
+comment3.text=\r\n\ R\u00FCckgabe\ des\ Geturtsnamens\r\n
+comment4.params=text
+comment4.target=void\ drucke(java.lang.String)
+comment4.text=\r\n\ Verk\u00FCrzung\ der\ println-funktion\r\n
+numComments=5
