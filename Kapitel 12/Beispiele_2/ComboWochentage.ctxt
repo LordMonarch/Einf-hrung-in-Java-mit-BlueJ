@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.Object\ getSelectedItem()
+comment1.params=anItem
+comment1.target=void\ setSelectedItem(java.lang.Object)
+comment2.params=
+comment2.target=ComboWochentage()
+comment3.params=
+comment3.target=void\ loescheArbeitstage()
+comment4.params=source\ von\ bis
+comment4.target=void\ fireContentsChanged(java.lang.Object,\ int,\ int)
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=index
+comment6.target=java.lang.String\ getElementAt(int)
+comment7.params=listener
+comment7.target=void\ addListDataListener(javax.swing.event.ListDataListener)
+comment8.params=listener
+comment8.target=void\ removeListDataListener(javax.swing.event.ListDataListener)
+numComments=9

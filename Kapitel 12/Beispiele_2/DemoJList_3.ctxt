@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ valueChanged(javax.swing.event.ListSelectionEvent)
+comment1.params=
+comment1.target=DemoJList_3()
+comment2.params=daten
+comment2.target=void\ setDatenmodell(javax.swing.ListModel)
+numComments=3
