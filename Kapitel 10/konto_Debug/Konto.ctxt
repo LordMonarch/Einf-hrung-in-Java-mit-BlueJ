@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Konto()
+comment1.params=betrag
+comment1.target=void\ einzahlen(double)
+comment2.params=betrag
+comment2.target=boolean\ abheben(double)
+comment3.params=
+comment3.target=double\ getKontostand()
+numComments=4

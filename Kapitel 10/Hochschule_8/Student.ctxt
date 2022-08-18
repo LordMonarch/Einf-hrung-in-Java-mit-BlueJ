@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Student(java.lang.String)
+comment0.text=\r\n\ Der\ Konstruktor\ nimmt\ den\ Namen\ entgegen\ und\ reicht\ ihn\ an\ die\ Superklasse\ weiter\r\n\ @param\ name\ Der\ Name\ des\ Studenten\r\n
+comment1.params=anzahl
+comment1.target=int\ kaufeMarken(int)
+comment2.params=name\ matrikel
+comment2.target=Student(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Der\ Konstruktor\ nimmt\ den\ Namen\ und\ die\ Matrikelnummer\ entgegen\r\n\ @param\ name\ Der\ Name\ des\ Studenten\r\n\ @param\ matrikel\ Die\ Matrikelnummer\ des\ Studenten\r\n
+comment3.params=matrikel
+comment3.target=void\ setMatrikel(java.lang.String)
+comment3.text=\r\n\ Setzt\ die\ Immatrikulationsnummer\ \r\n\ @param\ String\ Die\ Matrikelnummer\r\n
+comment4.params=
+comment4.target=java.lang.String\ getMatrikel()
+comment4.text=\r\n\ Gibt\ die\ Immatrikulationsnummer\ zur\u00FCck\r\n\ @return\ Matrikelnummer\ des\ Studenten\r\n
+comment5.params=
+comment5.target=java.lang.String\ vorstellen()
+comment5.text=\r\n\ Der\ student\ stellt\ sich\ vor.\r\n\ @return\ Eine\ Zeichenkette,\ die\ die\ Datenfelder\ des\ Studenten\ formatiert\ zur\u00FCckgibt.\ \r\n
+numComments=6
